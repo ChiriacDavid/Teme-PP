@@ -1,0 +1,15 @@
+Start-Date: 2019-05-24
+Commandline: mkdir abc
+Requested-By: Bogdan Ady
+<action>: Created directory
+End-Date:2019-05-24
+Start-Date: 2019-12-14
+Commandline: cd abc
+Requested-By: Bogdan Ady
+<action>: Opened directory
+End-Date:2019-12-14
+Start-Date: 2020-01-24
+Commandline: cd ..
+Requested-By: Bogdan Ady
+<action>: Undo the directory
+End-Date:2020-01-24
